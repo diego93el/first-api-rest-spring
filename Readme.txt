@@ -1,0 +1,2 @@
+Mi primer intento de api rest, con buenas practicas desde el uso de http status hasta crea el modelo Dto para no tener un accesos directo
+a nuestras columnas. Adicional se le hizo documentacion en swagger. 
